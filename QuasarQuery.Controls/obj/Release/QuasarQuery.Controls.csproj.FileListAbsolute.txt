@@ -1,0 +1,5 @@
+C:\PROYS\QuasarQuery\QuasarQuery.Controls\obj\Release\QuasarQuery.Controls.csproj.AssemblyReference.cache
+C:\PROYS\QuasarQuery\QuasarQuery.Controls\obj\Release\QuasarQuery.Controls.AutoCompleteForm.resources
+C:\PROYS\QuasarQuery\QuasarQuery.Controls\obj\Release\QuasarQuery.Controls.TextQuery.resources
+C:\PROYS\QuasarQuery\QuasarQuery.Controls\obj\Release\QuasarQuery.Controls.csproj.GenerateResource.cache
+C:\PROYS\QuasarQuery\QuasarQuery.Controls\obj\Release\QuasarQuery.Controls.csproj.CoreCompileInputs.cache

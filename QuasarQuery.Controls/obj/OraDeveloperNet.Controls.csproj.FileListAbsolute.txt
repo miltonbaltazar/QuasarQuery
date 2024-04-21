@@ -1,0 +1,8 @@
+D:\PROYECTOS PERSONALES\AccentureIDE\OraDeveloperNet.Controls\bin\Debug\OraDeveloperNet.Controls.dll
+D:\PROYECTOS PERSONALES\AccentureIDE\OraDeveloperNet.Controls\bin\Debug\OraDeveloperNet.Controls.pdb
+D:\PROYECTOS PERSONALES\AccentureIDE\OraDeveloperNet.Controls\obj\Debug\ResolveAssemblyReference.cache
+D:\PROYECTOS PERSONALES\AccentureIDE\OraDeveloperNet.Controls\obj\Debug\OraDeveloperNet.Controls.dll
+D:\PROYECTOS PERSONALES\AccentureIDE\OraDeveloperNet.Controls\obj\Debug\OraDeveloperNet.Controls.pdb
+D:\PROYECTOS PERSONALES\AccentureIDE\OraDeveloperNet.Controls\obj\Debug\OraDeveloperNet.Controls.TextQuery.resources
+D:\PROYECTOS PERSONALES\AccentureIDE\OraDeveloperNet.Controls\obj\Debug\OraDeveloperNet.Controls.csproj.GenerateResource.Cache
+D:\PROYECTOS PERSONALES\AccentureIDE\OraDeveloperNet.Controls\obj\Debug\OraDeveloperNet.Controls.AutoCompleteForm.resources

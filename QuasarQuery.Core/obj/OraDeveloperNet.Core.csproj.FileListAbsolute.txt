@@ -1,0 +1,5 @@
+D:\PROYECTOS PERSONALES\AccentureIDE\OraDeveloperNet.Core\bin\Debug\OraDeveloperNet.Core.dll
+D:\PROYECTOS PERSONALES\AccentureIDE\OraDeveloperNet.Core\bin\Debug\OraDeveloperNet.Core.pdb
+D:\PROYECTOS PERSONALES\AccentureIDE\OraDeveloperNet.Core\obj\Debug\ResolveAssemblyReference.cache
+D:\PROYECTOS PERSONALES\AccentureIDE\OraDeveloperNet.Core\obj\Debug\OraDeveloperNet.Core.dll
+D:\PROYECTOS PERSONALES\AccentureIDE\OraDeveloperNet.Core\obj\Debug\OraDeveloperNet.Core.pdb

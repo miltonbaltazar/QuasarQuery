@@ -1,0 +1,7 @@
+D:\PROYECTOS PERSONALES\AccentureIDE\OraDeveloperNet.Entity\bin\Debug\OraDeveloperNet.Entity.dll
+D:\PROYECTOS PERSONALES\AccentureIDE\OraDeveloperNet.Entity\bin\Debug\OraDeveloperNet.Entity.pdb
+D:\PROYECTOS PERSONALES\AccentureIDE\OraDeveloperNet.Entity\obj\Debug\ResolveAssemblyReference.cache
+D:\PROYECTOS PERSONALES\AccentureIDE\OraDeveloperNet.Entity\obj\Debug\OraDeveloperNet.Entity.dll
+D:\PROYECTOS PERSONALES\AccentureIDE\OraDeveloperNet.Entity\obj\Debug\OraDeveloperNet.Entity.pdb
+D:\PROYECTOS PERSONALES\AccentureIDE\OraDeveloperNet.Entity\bin\Debug\OraDeveloperNet.Core.dll
+D:\PROYECTOS PERSONALES\AccentureIDE\OraDeveloperNet.Entity\bin\Debug\OraDeveloperNet.Core.pdb

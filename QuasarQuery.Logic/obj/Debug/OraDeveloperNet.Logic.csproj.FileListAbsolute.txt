@@ -1,0 +1,154 @@
+C:\Users\milton\Desktop\AccentureIDE\OraDeveloperNet.Logic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\milton\Desktop\AccentureIDE\OraDeveloperNet.Logic\obj\Debug\OraDeveloperNet.Logic.dll
+C:\Users\milton\Desktop\AccentureIDE\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Logic.dll
+C:\Users\milton\Desktop\AccentureIDE\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Logic.pdb
+C:\Users\milton\Desktop\AccentureIDE\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Core.dll
+C:\Users\milton\Desktop\AccentureIDE\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.DataBase.dll
+C:\Users\milton\Desktop\AccentureIDE\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Entity.dll
+C:\Users\milton\Desktop\AccentureIDE\OraDeveloperNet.Logic\bin\Debug\Oracle.DataAccess.dll
+C:\Users\milton\Desktop\AccentureIDE\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Entity.pdb
+C:\Users\milton\Desktop\AccentureIDE\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Core.pdb
+C:\Users\milton\Desktop\AccentureIDE\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.DataBase.pdb
+C:\Users\milton\Desktop\AccentureIDE\OraDeveloperNet.Logic\obj\Debug\OraDeveloperNet.Logic.pdb
+D:\PROYECTOS PERSONALES\AccentureIDE(02)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Logic.dll
+D:\PROYECTOS PERSONALES\AccentureIDE(02)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Logic.pdb
+D:\PROYECTOS PERSONALES\AccentureIDE(02)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Core.dll
+D:\PROYECTOS PERSONALES\AccentureIDE(02)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.DataBase.dll
+D:\PROYECTOS PERSONALES\AccentureIDE(02)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Entity.dll
+D:\PROYECTOS PERSONALES\AccentureIDE(02)\OraDeveloperNet.Logic\bin\Debug\Oracle.DataAccess.dll
+D:\PROYECTOS PERSONALES\AccentureIDE(02)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Entity.pdb
+D:\PROYECTOS PERSONALES\AccentureIDE(02)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Core.pdb
+D:\PROYECTOS PERSONALES\AccentureIDE(02)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.DataBase.pdb
+D:\PROYECTOS PERSONALES\AccentureIDE(02)\OraDeveloperNet.Logic\obj\Debug\ResolveAssemblyReference.cache
+D:\PROYECTOS PERSONALES\AccentureIDE(02)\OraDeveloperNet.Logic\obj\Debug\OraDeveloperNet.Logic.dll
+D:\PROYECTOS PERSONALES\AccentureIDE(02)\OraDeveloperNet.Logic\obj\Debug\OraDeveloperNet.Logic.pdb
+D:\PROYECTOS PERSONALES\AccentureIDE(02)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Common.dll
+D:\PROYECTOS PERSONALES\AccentureIDE(02)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Common.pdb
+D:\PROYECTOS PERSONALES\AccentureIDE(03)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Logic.dll
+D:\PROYECTOS PERSONALES\AccentureIDE(03)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Logic.pdb
+D:\PROYECTOS PERSONALES\AccentureIDE(03)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Common.dll
+D:\PROYECTOS PERSONALES\AccentureIDE(03)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Core.dll
+D:\PROYECTOS PERSONALES\AccentureIDE(03)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.DataBase.dll
+D:\PROYECTOS PERSONALES\AccentureIDE(03)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Entity.dll
+D:\PROYECTOS PERSONALES\AccentureIDE(03)\OraDeveloperNet.Logic\bin\Debug\Oracle.DataAccess.dll
+D:\PROYECTOS PERSONALES\AccentureIDE(03)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Entity.pdb
+D:\PROYECTOS PERSONALES\AccentureIDE(03)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Core.pdb
+D:\PROYECTOS PERSONALES\AccentureIDE(03)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.DataBase.pdb
+D:\PROYECTOS PERSONALES\AccentureIDE(03)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Common.pdb
+D:\PROYECTOS PERSONALES\AccentureIDE(03)\OraDeveloperNet.Logic\obj\Debug\ResolveAssemblyReference.cache
+D:\PROYECTOS PERSONALES\AccentureIDE(03)\OraDeveloperNet.Logic\obj\Debug\OraDeveloperNet.Logic.dll
+D:\PROYECTOS PERSONALES\AccentureIDE(03)\OraDeveloperNet.Logic\obj\Debug\OraDeveloperNet.Logic.pdb
+D:\PROYECTOS PERSONALES\AccentureIDE(04)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Logic.dll
+D:\PROYECTOS PERSONALES\AccentureIDE(04)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Logic.pdb
+D:\PROYECTOS PERSONALES\AccentureIDE(04)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Common.dll
+D:\PROYECTOS PERSONALES\AccentureIDE(04)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Core.dll
+D:\PROYECTOS PERSONALES\AccentureIDE(04)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.DataBase.dll
+D:\PROYECTOS PERSONALES\AccentureIDE(04)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Entity.dll
+D:\PROYECTOS PERSONALES\AccentureIDE(04)\OraDeveloperNet.Logic\bin\Debug\Oracle.DataAccess.dll
+D:\PROYECTOS PERSONALES\AccentureIDE(04)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Entity.pdb
+D:\PROYECTOS PERSONALES\AccentureIDE(04)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Core.pdb
+D:\PROYECTOS PERSONALES\AccentureIDE(04)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.DataBase.pdb
+D:\PROYECTOS PERSONALES\AccentureIDE(04)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Common.pdb
+D:\PROYECTOS PERSONALES\AccentureIDE(04)\OraDeveloperNet.Logic\obj\Debug\ResolveAssemblyReference.cache
+D:\PROYECTOS PERSONALES\AccentureIDE(04)\OraDeveloperNet.Logic\obj\Debug\OraDeveloperNet.Logic.dll
+D:\PROYECTOS PERSONALES\AccentureIDE(04)\OraDeveloperNet.Logic\obj\Debug\OraDeveloperNet.Logic.pdb
+C:\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Logic.dll
+C:\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Logic.pdb
+C:\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Common.dll
+C:\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Core.dll
+C:\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.DataBase.dll
+C:\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Entity.dll
+C:\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Entity.pdb
+C:\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Core.pdb
+C:\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.DataBase.pdb
+C:\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Common.pdb
+C:\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\obj\Debug\ResolveAssemblyReference.cache
+C:\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\obj\Debug\OraDeveloperNet.Logic.dll
+C:\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\obj\Debug\OraDeveloperNet.Logic.pdb
+C:\MLTN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Logic.dll
+C:\MLTN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Logic.pdb
+C:\MLTN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Common.dll
+C:\MLTN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Core.dll
+C:\MLTN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.DataBase.dll
+C:\MLTN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Entity.dll
+C:\MLTN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\Oracle.DataAccess.dll
+C:\MLTN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Entity.pdb
+C:\MLTN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Core.pdb
+C:\MLTN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.DataBase.pdb
+C:\MLTN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Common.pdb
+C:\MLTN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\obj\Debug\ResolveAssemblyReference.cache
+C:\MLTN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\obj\Debug\OraDeveloperNet.Logic.dll
+C:\MLTN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\obj\Debug\OraDeveloperNet.Logic.pdb
+C:\Users\milton.m.valenzuela\Downloads\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Logic.dll
+C:\Users\milton.m.valenzuela\Downloads\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Logic.pdb
+C:\Users\milton.m.valenzuela\Downloads\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Common.dll
+C:\Users\milton.m.valenzuela\Downloads\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Core.dll
+C:\Users\milton.m.valenzuela\Downloads\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.DataBase.dll
+C:\Users\milton.m.valenzuela\Downloads\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Entity.dll
+C:\Users\milton.m.valenzuela\Downloads\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\Oracle.DataAccess.dll
+C:\Users\milton.m.valenzuela\Downloads\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Entity.pdb
+C:\Users\milton.m.valenzuela\Downloads\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Core.pdb
+C:\Users\milton.m.valenzuela\Downloads\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.DataBase.pdb
+C:\Users\milton.m.valenzuela\Downloads\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Common.pdb
+C:\Users\milton.m.valenzuela\Downloads\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\milton.m.valenzuela\Downloads\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\obj\Debug\OraDeveloperNet.Logic.dll
+C:\Users\milton.m.valenzuela\Downloads\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\obj\Debug\OraDeveloperNet.Logic.pdb
+C:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Logic.dll
+C:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Logic.pdb
+C:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Common.dll
+C:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Core.dll
+C:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.DataBase.dll
+C:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Entity.dll
+C:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\Oracle.DataAccess.dll
+C:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Entity.pdb
+C:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Core.pdb
+C:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.DataBase.pdb
+C:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Common.pdb
+C:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\obj\Debug\ResolveAssemblyReference.cache
+C:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\obj\Debug\OraDeveloperNet.Logic.dll
+C:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\obj\Debug\OraDeveloperNet.Logic.pdb
+E:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Logic.dll
+E:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Logic.pdb
+E:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Common.dll
+E:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Core.dll
+E:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.DataBase.dll
+E:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Entity.dll
+E:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\Oracle.DataAccess.dll
+E:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Entity.pdb
+E:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Core.pdb
+E:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.DataBase.pdb
+E:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Common.pdb
+E:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\obj\Debug\ResolveAssemblyReference.cache
+E:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\obj\Debug\OraDeveloperNet.Logic.dll
+E:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\obj\Debug\OraDeveloperNet.Logic.pdb
+F:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\obj\Debug\ResolveAssemblyReference.cache
+F:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\obj\Debug\OraDeveloperNet.Logic.dll
+F:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Logic.dll
+F:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Logic.pdb
+F:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Common.dll
+F:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Core.dll
+F:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.DataBase.dll
+F:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Entity.dll
+F:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Entity.pdb
+F:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Core.pdb
+F:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.DataBase.pdb
+F:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Common.pdb
+F:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\obj\Debug\OraDeveloperNet.Logic.pdb
+D:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\obj\Debug\ResolveAssemblyReference.cache
+D:\ACN\PROYECTOS OBJETIVOS ACCENTURE\AccentureIDE(05)\OraDeveloperNet.Logic\obj\Debug\OraDeveloperNet.Logic.dll
+C:\Users\usuario\Downloads\AccentureIDE(05)\OraDeveloperNet.Logic\obj\Debug\OraDeveloperNet.Logic.csproj.AssemblyReference.cache
+C:\Users\usuario\Downloads\AccentureIDE(05)\OraDeveloperNet.Logic\obj\Debug\OraDeveloperNet.Logic.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Downloads\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Logic.dll
+C:\Users\usuario\Downloads\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Logic.pdb
+C:\Users\usuario\Downloads\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Common.dll
+C:\Users\usuario\Downloads\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Core.dll
+C:\Users\usuario\Downloads\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.DataBase.dll
+C:\Users\usuario\Downloads\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Entity.dll
+C:\Users\usuario\Downloads\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\Oracle.DataAccess.dll
+C:\Users\usuario\Downloads\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Common.pdb
+C:\Users\usuario\Downloads\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Core.pdb
+C:\Users\usuario\Downloads\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.DataBase.pdb
+C:\Users\usuario\Downloads\AccentureIDE(05)\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Entity.pdb
+C:\Users\usuario\Downloads\AccentureIDE(05)\OraDeveloperNet.Logic\obj\Debug\OraDevel.46A93D49.Up2Date
+C:\Users\usuario\Downloads\AccentureIDE(05)\OraDeveloperNet.Logic\obj\Debug\OraDeveloperNet.Logic.dll
+C:\Users\usuario\Downloads\AccentureIDE(05)\OraDeveloperNet.Logic\obj\Debug\OraDeveloperNet.Logic.pdb

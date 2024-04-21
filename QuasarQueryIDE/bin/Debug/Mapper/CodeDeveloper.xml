@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configuration>
+  <ProjectExplorer>
+    <Folders  name="Oracle">
+      <Folder name="Tables" />
+      <Folder name="Functions" />
+      <Folder name="Packages" />
+      <Folder name="Procedures" />
+      <Folder name="Types" />
+      <Folder name="Triggers" />
+      <Folder name="Directories" />
+      <Folder name="Indexes" />
+      <Folder name="Constraints" />
+      <Folder name="Views" />
+      <Folder name="Sequences" />
+      <Folder name="Users" />
+      <Folder name="Profiles" />
+      <Folder name="Roles" />
+      <Folder name="Synonyms" />
+      <Folder name="Database Links" />
+      <Folder name="Tablespaces" />
+    </Folders>
+  </ProjectExplorer>
+  <Languajes>
+    <Languaje name="CSharp 2008" value="CSHARP2008" />
+    <Languaje name="VB.Net 2008" value="VBNET2008" />
+    <Languaje name="Java 7.0"    value="JAVA07" />
+  </Languajes>
+  <DataBases>
+    <DataBase name="Oracle" EnumName="Oracle" EnumKey="4" ConnectionString="Data Source={0};User ID={1};Password={2};Unicode={3}" />
+    <DataBase name="SQL Server" EnumName="SQLServer" EnumKey="2" ConnectionString="Data Source={0};Initial Catalog={1};User ID={2}; Password={3}" />
+  </DataBases>
+  <Templates>
+    <Template name="Consultar" Type="StoreProcedure" EnumKey="1" EnumName="Consultar" FileName="QueryCodeStoreProcedure.xslt" />
+    <Template name="Guardar"   Type="StoreProcedure" EnumKey="2" EnumName="Guardar"   FileName="SaveCodeStoreProcedure.xslt"/>
+    <Template name="Modificar" Type="StoreProcedure" EnumKey="3" EnumName="Modificar" FileName="UpdateCodeStoreProcedure.xslt"/>
+    <Template name="Eliminar"  Type="StoreProcedure" EnumKey="4" EnumName="Eliminar"  FileName="DeleteCodeStoreProcedure.xslt"/>
+  </Templates>
+  <Providers>
+    <Provider name="Oracle">
+        <DataTypes>
+          <DataType value="Varchar2"/>
+          <DataType value="Varchar" />
+          <DataType value="Integer" />
+          <DataType value="Number" />
+          <DataType value="Blob" />
+          <DataType value="Clob" />
+          <DataType value="Date" />
+          <DataType value="Time" />
+          <DataType value="Bit" />
+        </DataTypes>
+    </Provider>
+  </Providers>
+
+</Configuration>
+

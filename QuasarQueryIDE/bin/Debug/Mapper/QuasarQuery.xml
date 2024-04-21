@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configuration>
+  <ProjectExplorer>
+    <Folders  name="Oracle">
+      <Folder name="Tables" />
+      <Folder name="Functions" />
+      <Folder name="Packages" />
+      <Folder name="Procedures" />
+      <Folder name="Types" />
+      <Folder name="Triggers" />
+      <Folder name="Directories" />
+      <Folder name="Indexes" />
+      <Folder name="Constraints" />
+      <Folder name="Views" />
+      <Folder name="Sequences" />
+      <Folder name="Users" />
+      <Folder name="Profiles" />
+      <Folder name="Roles" />
+      <Folder name="Synonyms" />
+      <Folder name="Database Links" />
+      <Folder name="Tablespaces" />
+    </Folders>
+  </ProjectExplorer>
+  <Languajes>
+    <Languaje name="CSharp 2008" value="CSHARP2008" />
+    <Languaje name="VB.Net 2008" value="VBNET2008" />
+    <Languaje name="Java 7.0"    value="JAVA07" />
+  </Languajes>
+  <DataBases>
+    <DataBase value="Oracle 9i" />
+    <DataBase value="Oracle 10g" />
+    <DataBase value="Oracle 11g" />
+    <DataBase value="SqlServer 2000" />
+    <DataBase value="SqlServer 2005" />
+    <DataBase value="SqlServer 2008" />
+  </DataBases>
+  <Providers>
+    <Provider name="Oracle">
+        <DataTypes>
+          <DataType value="Varchar2"/>
+          <DataType value="Varchar" />
+          <DataType value="Integer" />
+          <DataType value="Number" />
+          <DataType value="Blob" />
+          <DataType value="Clob" />
+          <DataType value="Date" />
+          <DataType value="Time" />
+          <DataType value="Bit" />
+        </DataTypes>
+    </Provider>
+  </Providers>
+
+</Configuration>
+

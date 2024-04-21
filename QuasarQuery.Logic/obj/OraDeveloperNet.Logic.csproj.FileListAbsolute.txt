@@ -1,0 +1,12 @@
+D:\PROYECTOS PERSONALES\AccentureIDE\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Logic.dll
+D:\PROYECTOS PERSONALES\AccentureIDE\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Logic.pdb
+D:\PROYECTOS PERSONALES\AccentureIDE\OraDeveloperNet.Logic\obj\Debug\ResolveAssemblyReference.cache
+D:\PROYECTOS PERSONALES\AccentureIDE\OraDeveloperNet.Logic\obj\Debug\OraDeveloperNet.Logic.dll
+D:\PROYECTOS PERSONALES\AccentureIDE\OraDeveloperNet.Logic\obj\Debug\OraDeveloperNet.Logic.pdb
+D:\PROYECTOS PERSONALES\AccentureIDE\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Entity.dll
+D:\PROYECTOS PERSONALES\AccentureIDE\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Entity.pdb
+D:\PROYECTOS PERSONALES\AccentureIDE\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.DataBase.dll
+D:\PROYECTOS PERSONALES\AccentureIDE\OraDeveloperNet.Logic\bin\Debug\Oracle.DataAccess.dll
+D:\PROYECTOS PERSONALES\AccentureIDE\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.DataBase.pdb
+D:\PROYECTOS PERSONALES\AccentureIDE\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Core.dll
+D:\PROYECTOS PERSONALES\AccentureIDE\OraDeveloperNet.Logic\bin\Debug\OraDeveloperNet.Core.pdb

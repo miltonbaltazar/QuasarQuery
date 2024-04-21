@@ -1,0 +1,2 @@
+C:\PROYS\QuasarQuery\QuasarQuery.DataBase\obj\Release\QuasarQuery.DataBase.csproj.AssemblyReference.cache
+C:\PROYS\QuasarQuery\QuasarQuery.DataBase\obj\Release\QuasarQuery.DataBase.csproj.CoreCompileInputs.cache
