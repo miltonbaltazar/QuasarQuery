@@ -167,7 +167,10 @@ namespace QuasarQuery.IDE
                     { 
                         LGDataAccess lg = new LGDataAccess();
                         string script = lg.GetScriptText(ApplicationFow.CurrentConect, QuasarQuery.Entity.Enumeradores.ETypeScript.Select, treeView1.SelectedNode.Text);
-                        treeView1.DoDragDrop(script, DragDropEffects.Copy | DragDropEffects.Move);    
+                        if (script != null)
+                            treeView1.DoDragDrop(script, DragDropEffects.Copy | DragDropEffects.Move);
+                        else
+                            MessageBox.Show("No se puede mapear el objeto seleccionado", "Error", MessageBoxButtons.OKCancel, MessageBoxIcon.Error);    
                     }
                 }
             }

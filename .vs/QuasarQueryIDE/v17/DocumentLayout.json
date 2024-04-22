@@ -1,157 +1,161 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\PROYS\\QuasarQuery\\",
+  "WorkspaceRootPath": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|C:\\PROYS\\QuasarQuery\\quasarqueryide\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|c:\\proys\\quasarquery\\quasarqueryide\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|C:\\PROYS\\QuasarQuery\\quasarqueryide\\applicationfow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\quasarqueryide\\applicationfow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\applicationfow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F716A7F-8346-4F6F-95D0-9ADC49502EA7}|QuasarQuery.Logic\\QuasarQuery.Logic.csproj|C:\\PROYS\\QuasarQuery\\quasarquery.logic\\logicdataaccessgetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F716A7F-8346-4F6F-95D0-9ADC49502EA7}|QuasarQuery.Logic\\QuasarQuery.Logic.csproj|solutionrelative:quasarquery.logic\\logicdataaccessgetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|c:\\proys\\quasarquery\\quasarqueryide\\frmexplorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\frmexplorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|C:\\PROYS\\QuasarQuery\\quasarqueryide\\winquasarqueryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\winquasarqueryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|c:\\proys\\quasarquery\\quasarqueryide\\frmcomparedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\frmcomparedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|c:\\proys\\quasarquery\\quasarqueryide\\frmexplorer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\frmexplorer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|C:\\PROYS\\QuasarQuery\\quasarqueryide\\frmexplorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\quasarqueryide\\frmexplorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\frmexplorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|c:\\proys\\quasarquery\\quasarqueryide\\frmreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\frmreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|c:\\proys\\quasarquery\\quasarqueryide\\frmparameterscollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\frmparameterscollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|c:\\proys\\quasarquery\\quasarqueryide\\frmparameterscollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\frmparameterscollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|c:\\proys\\quasarquery\\quasarqueryide\\frmgenerateprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\frmgenerateprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|c:\\proys\\quasarquery\\quasarqueryide\\frmgenerateprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\frmgenerateprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|c:\\proys\\quasarquery\\quasarqueryide\\frmentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\frmentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|c:\\proys\\quasarquery\\quasarqueryide\\frmdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\frmdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|c:\\proys\\quasarquery\\quasarqueryide\\frmdescribeorshema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\frmdescribeorshema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|c:\\proys\\quasarquery\\quasarqueryide\\frmdefault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\frmdefault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|C:\\PROYS\\QuasarQuery\\quasarqueryide\\frmcomparedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\frmcomparedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|c:\\proys\\quasarquery\\quasarqueryide\\configgetter\\codedevelopergetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\configgetter\\codedevelopergetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|C:\\PROYS\\QuasarQuery\\quasarqueryide\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|c:\\proys\\quasarquery\\quasarqueryide\\frmresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\frmresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{259AFFC1-2903-4AB2-A9E3-0950CCB96803}|QuasarQuery.DataBase\\QuasarQuery.DataBase.csproj|C:\\PROYS\\QuasarQuery\\quasarquery.database\\sqlserverdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{259AFFC1-2903-4AB2-A9E3-0950CCB96803}|QuasarQuery.DataBase\\QuasarQuery.DataBase.csproj|solutionrelative:quasarquery.database\\sqlserverdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{259AFFC1-2903-4AB2-A9E3-0950CCB96803}|QuasarQuery.DataBase\\QuasarQuery.DataBase.csproj|C:\\PROYS\\QuasarQuery\\quasarquery.database\\oracledataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{259AFFC1-2903-4AB2-A9E3-0950CCB96803}|QuasarQuery.DataBase\\QuasarQuery.DataBase.csproj|solutionrelative:quasarquery.database\\oracledataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3964FD5B-E47F-4FE5-8410-368586626662}|QuasarQuery.Entity\\QuasarQuery.Entity.csproj|C:\\PROYS\\QuasarQuery\\quasarquery.entity\\collection\\sessioncollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3964FD5B-E47F-4FE5-8410-368586626662}|QuasarQuery.Entity\\QuasarQuery.Entity.csproj|solutionrelative:quasarquery.entity\\collection\\sessioncollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3964FD5B-E47F-4FE5-8410-368586626662}|QuasarQuery.Entity\\QuasarQuery.Entity.csproj|c:\\proys\\quasarquery\\quasarquery.entity\\collection\\parametercollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3964FD5B-E47F-4FE5-8410-368586626662}|QuasarQuery.Entity\\QuasarQuery.Entity.csproj|solutionrelative:quasarquery.entity\\collection\\parametercollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3964FD5B-E47F-4FE5-8410-368586626662}|QuasarQuery.Entity\\QuasarQuery.Entity.csproj|C:\\PROYS\\QuasarQuery\\quasarquery.entity\\entity\\entitymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3964FD5B-E47F-4FE5-8410-368586626662}|QuasarQuery.Entity\\QuasarQuery.Entity.csproj|solutionrelative:quasarquery.entity\\entity\\entitymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3964FD5B-E47F-4FE5-8410-368586626662}|QuasarQuery.Entity\\QuasarQuery.Entity.csproj|c:\\proys\\quasarquery\\quasarquery.entity\\entity\\parameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3964FD5B-E47F-4FE5-8410-368586626662}|QuasarQuery.Entity\\QuasarQuery.Entity.csproj|solutionrelative:quasarquery.entity\\entity\\parameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3964FD5B-E47F-4FE5-8410-368586626662}|QuasarQuery.Entity\\QuasarQuery.Entity.csproj|c:\\proys\\quasarquery\\quasarquery.entity\\enumeradores\\econnectresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3964FD5B-E47F-4FE5-8410-368586626662}|QuasarQuery.Entity\\QuasarQuery.Entity.csproj|solutionrelative:quasarquery.entity\\enumeradores\\econnectresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3964FD5B-E47F-4FE5-8410-368586626662}|QuasarQuery.Entity\\QuasarQuery.Entity.csproj|c:\\proys\\quasarquery\\quasarquery.entity\\enumeradores\\etypescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3964FD5B-E47F-4FE5-8410-368586626662}|QuasarQuery.Entity\\QuasarQuery.Entity.csproj|solutionrelative:quasarquery.entity\\enumeradores\\etypescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3964FD5B-E47F-4FE5-8410-368586626662}|QuasarQuery.Entity\\QuasarQuery.Entity.csproj|C:\\PROYS\\QuasarQuery\\quasarquery.entity\\interface\\idataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3964FD5B-E47F-4FE5-8410-368586626662}|QuasarQuery.Entity\\QuasarQuery.Entity.csproj|solutionrelative:quasarquery.entity\\interface\\idataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F716A7F-8346-4F6F-95D0-9ADC49502EA7}|QuasarQuery.Logic\\QuasarQuery.Logic.csproj|c:\\proys\\quasarquery\\quasarquery.logic\\lgdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F716A7F-8346-4F6F-95D0-9ADC49502EA7}|QuasarQuery.Logic\\QuasarQuery.Logic.csproj|C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\quasarquery.logic\\lgdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F716A7F-8346-4F6F-95D0-9ADC49502EA7}|QuasarQuery.Logic\\QuasarQuery.Logic.csproj|solutionrelative:quasarquery.logic\\lgdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|C:\\PROYS\\QuasarQuery\\quasarqueryide\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{259AFFC1-2903-4AB2-A9E3-0950CCB96803}|QuasarQuery.DataBase\\QuasarQuery.DataBase.csproj|C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\quasarquery.database\\sqlserverdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{259AFFC1-2903-4AB2-A9E3-0950CCB96803}|QuasarQuery.DataBase\\QuasarQuery.DataBase.csproj|solutionrelative:quasarquery.database\\sqlserverdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\quasarqueryide\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\quasarqueryide\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D8ABAE9-C6AF-4CD2-8301-D63333F8159B}|QuasarQuery.Common\\QuasarQuery.Common.csproj|c:\\proys\\quasarquerytool\\quasarquery\\quasarquery.common\\serializationutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D8ABAE9-C6AF-4CD2-8301-D63333F8159B}|QuasarQuery.Common\\QuasarQuery.Common.csproj|solutionrelative:quasarquery.common\\serializationutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|c:\\proys\\quasarquerytool\\quasarquery\\quasarqueryide\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F716A7F-8346-4F6F-95D0-9ADC49502EA7}|QuasarQuery.Logic\\QuasarQuery.Logic.csproj|C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\quasarquery.logic\\logicdataaccessgetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F716A7F-8346-4F6F-95D0-9ADC49502EA7}|QuasarQuery.Logic\\QuasarQuery.Logic.csproj|solutionrelative:quasarquery.logic\\logicdataaccessgetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\quasarqueryide\\frmexplorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\frmexplorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\quasarqueryide\\winquasarqueryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\winquasarqueryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\quasarqueryide\\frmcomparedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\frmcomparedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\quasarqueryide\\frmexplorer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\frmexplorer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\quasarqueryide\\frmreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\frmreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\quasarqueryide\\frmparameterscollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\frmparameterscollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\quasarqueryide\\frmparameterscollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\frmparameterscollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\quasarqueryide\\frmgenerateprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\frmgenerateprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\quasarqueryide\\frmgenerateprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\frmgenerateprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\quasarqueryide\\frmentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\frmentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\quasarqueryide\\frmdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\frmdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\quasarqueryide\\frmdescribeorshema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\frmdescribeorshema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\quasarqueryide\\frmdefault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\frmdefault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\quasarqueryide\\frmcomparedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\frmcomparedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\quasarqueryide\\configgetter\\codedevelopergetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\configgetter\\codedevelopergetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\quasarqueryide\\frmresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\frmresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{259AFFC1-2903-4AB2-A9E3-0950CCB96803}|QuasarQuery.DataBase\\QuasarQuery.DataBase.csproj|C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\quasarquery.database\\oracledataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{259AFFC1-2903-4AB2-A9E3-0950CCB96803}|QuasarQuery.DataBase\\QuasarQuery.DataBase.csproj|solutionrelative:quasarquery.database\\oracledataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3964FD5B-E47F-4FE5-8410-368586626662}|QuasarQuery.Entity\\QuasarQuery.Entity.csproj|C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\quasarquery.entity\\collection\\sessioncollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3964FD5B-E47F-4FE5-8410-368586626662}|QuasarQuery.Entity\\QuasarQuery.Entity.csproj|solutionrelative:quasarquery.entity\\collection\\sessioncollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3964FD5B-E47F-4FE5-8410-368586626662}|QuasarQuery.Entity\\QuasarQuery.Entity.csproj|C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\quasarquery.entity\\collection\\parametercollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3964FD5B-E47F-4FE5-8410-368586626662}|QuasarQuery.Entity\\QuasarQuery.Entity.csproj|solutionrelative:quasarquery.entity\\collection\\parametercollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3964FD5B-E47F-4FE5-8410-368586626662}|QuasarQuery.Entity\\QuasarQuery.Entity.csproj|C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\quasarquery.entity\\entity\\entitymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3964FD5B-E47F-4FE5-8410-368586626662}|QuasarQuery.Entity\\QuasarQuery.Entity.csproj|solutionrelative:quasarquery.entity\\entity\\entitymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3964FD5B-E47F-4FE5-8410-368586626662}|QuasarQuery.Entity\\QuasarQuery.Entity.csproj|C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\quasarquery.entity\\entity\\parameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3964FD5B-E47F-4FE5-8410-368586626662}|QuasarQuery.Entity\\QuasarQuery.Entity.csproj|solutionrelative:quasarquery.entity\\entity\\parameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3964FD5B-E47F-4FE5-8410-368586626662}|QuasarQuery.Entity\\QuasarQuery.Entity.csproj|C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\quasarquery.entity\\enumeradores\\econnectresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3964FD5B-E47F-4FE5-8410-368586626662}|QuasarQuery.Entity\\QuasarQuery.Entity.csproj|solutionrelative:quasarquery.entity\\enumeradores\\econnectresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3964FD5B-E47F-4FE5-8410-368586626662}|QuasarQuery.Entity\\QuasarQuery.Entity.csproj|C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\quasarquery.entity\\enumeradores\\etypescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3964FD5B-E47F-4FE5-8410-368586626662}|QuasarQuery.Entity\\QuasarQuery.Entity.csproj|solutionrelative:quasarquery.entity\\enumeradores\\etypescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3964FD5B-E47F-4FE5-8410-368586626662}|QuasarQuery.Entity\\QuasarQuery.Entity.csproj|C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\quasarquery.entity\\interface\\idataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3964FD5B-E47F-4FE5-8410-368586626662}|QuasarQuery.Entity\\QuasarQuery.Entity.csproj|solutionrelative:quasarquery.entity\\interface\\idataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\quasarqueryide\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|C:\\PROYS\\QuasarQuery\\quasarqueryide\\tnsnamesreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\quasarqueryide\\tnsnamesreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\tnsnamesreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|C:\\PROYS\\QuasarQuery\\quasarqueryide\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\quasarqueryide\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|C:\\PROYS\\QuasarQuery\\quasarqueryide\\winquasarqueryui.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\quasarqueryide\\winquasarqueryui.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\winquasarqueryui.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DA7C773-51A3-414E-A17E-440DEE0D1D87}|QuasarQuery.Core\\QuasarQuery.Core.csproj|C:\\PROYS\\QuasarQuery\\quasarquery.core\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0DA7C773-51A3-414E-A17E-440DEE0D1D87}|QuasarQuery.Core\\QuasarQuery.Core.csproj|C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\quasarquery.core\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0DA7C773-51A3-414E-A17E-440DEE0D1D87}|QuasarQuery.Core\\QuasarQuery.Core.csproj|solutionrelative:quasarquery.core\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|C:\\PROYS\\QuasarQuery\\quasarqueryide\\frmreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\quasarqueryide\\frmreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25644EAA-4D49-4B97-B601-CCF6A4A09610}|QuasarQueryIDE\\QuasarQuery.IDE.csproj|solutionrelative:quasarqueryide\\frmreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -165,31 +169,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "LogicDataAccessGetter.cs",
-              "DocumentMoniker": "C:\\PROYS\\QuasarQuery\\QuasarQuery.Logic\\LogicDataAccessGetter.cs",
+              "DocumentMoniker": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQuery.Logic\\LogicDataAccessGetter.cs",
               "RelativeDocumentMoniker": "QuasarQuery.Logic\\LogicDataAccessGetter.cs",
-              "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQuery.Logic\\LogicDataAccessGetter.cs",
+              "ToolTip": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQuery.Logic\\LogicDataAccessGetter.cs",
               "RelativeToolTip": "QuasarQuery.Logic\\LogicDataAccessGetter.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T00:52:45.554Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "FrmLogin.cs",
-              "DocumentMoniker": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\FrmLogin.cs",
+              "DocumentMoniker": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\FrmLogin.cs",
               "RelativeDocumentMoniker": "QuasarQueryIDE\\FrmLogin.cs",
-              "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\FrmLogin.cs",
+              "ToolTip": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\FrmLogin.cs",
               "RelativeToolTip": "QuasarQueryIDE\\FrmLogin.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAArwCoAAAA4AAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAMwE0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T07:02:28.095Z",
               "IsPinned": true,
@@ -197,11 +200,112 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationFow.cs",
+              "DocumentMoniker": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\ApplicationFow.cs",
+              "RelativeDocumentMoniker": "QuasarQueryIDE\\ApplicationFow.cs",
+              "ToolTip": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\ApplicationFow.cs",
+              "RelativeToolTip": "QuasarQueryIDE\\ApplicationFow.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAQwFkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T03:35:04.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmLogin.Designer.cs",
+              "DocumentMoniker": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\FrmLogin.Designer.cs",
+              "RelativeDocumentMoniker": "QuasarQueryIDE\\FrmLogin.Designer.cs",
+              "ToolTip": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\FrmLogin.Designer.cs",
+              "RelativeToolTip": "QuasarQueryIDE\\FrmLogin.Designer.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAEwIkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T04:18:48.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WinQuasarQueryUI.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\WinQuasarQueryUI.cs",
+              "RelativeDocumentMoniker": "QuasarQueryIDE\\WinQuasarQueryUI.cs",
+              "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\WinQuasarQueryUI.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\QuasarQuery\\QuasarQueryIDE\\WinQuasarQueryUI.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T04:49:20.111Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "SerializationUtils.cs",
+              "DocumentMoniker": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQuery.Common\\SerializationUtils.cs",
+              "RelativeDocumentMoniker": "QuasarQuery.Common\\SerializationUtils.cs",
+              "ToolTip": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQuery.Common\\SerializationUtils.cs",
+              "RelativeToolTip": "QuasarQuery.Common\\SerializationUtils.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAwwDsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T23:25:06.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmExplorer.cs",
+              "DocumentMoniker": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\FrmExplorer.cs",
+              "RelativeDocumentMoniker": "QuasarQueryIDE\\FrmExplorer.cs",
+              "ToolTip": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\FrmExplorer.cs",
+              "RelativeToolTip": "QuasarQueryIDE\\FrmExplorer.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAwwKgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T03:59:53.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LGDataAccess.cs",
+              "DocumentMoniker": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQuery.Logic\\LGDataAccess.cs",
+              "RelativeDocumentMoniker": "QuasarQuery.Logic\\LGDataAccess.cs",
+              "ToolTip": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQuery.Logic\\LGDataAccess.cs",
+              "RelativeToolTip": "QuasarQuery.Logic\\LGDataAccess.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAowEMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T05:24:25.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SqlServerDataAccess.cs",
+              "DocumentMoniker": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQuery.DataBase\\SqlServerDataAccess.cs",
+              "RelativeDocumentMoniker": "QuasarQuery.DataBase\\SqlServerDataAccess.cs",
+              "ToolTip": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQuery.DataBase\\SqlServerDataAccess.cs",
+              "RelativeToolTip": "QuasarQuery.DataBase\\SqlServerDataAccess.cs",
+              "ViewState": "AQIAAPEAAAAAAAAAAAAwwBEBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T03:30:42.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmExplorer.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\FrmExplorer.cs",
+              "RelativeDocumentMoniker": "QuasarQueryIDE\\FrmExplorer.cs",
+              "ToolTip": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\FrmExplorer.cs [Dise\u00F1o]",
+              "RelativeToolTip": "QuasarQueryIDE\\FrmExplorer.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T07:03:19.689Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "FrmCompareDataBase.cs",
-              "DocumentMoniker": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\FrmCompareDataBase.cs",
+              "DocumentMoniker": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\FrmCompareDataBase.cs",
               "RelativeDocumentMoniker": "QuasarQueryIDE\\FrmCompareDataBase.cs",
-              "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\FrmCompareDataBase.cs",
+              "ToolTip": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\FrmCompareDataBase.cs",
               "RelativeToolTip": "QuasarQueryIDE\\FrmCompareDataBase.cs",
               "ViewState": "AQIAADQAAAAAAAAAAAAowE4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -210,35 +314,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WinQuasarQueryUI.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\WinQuasarQueryUI.cs",
-              "RelativeDocumentMoniker": "QuasarQueryIDE\\WinQuasarQueryUI.cs",
-              "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\WinQuasarQueryUI.cs [Dise\u00F1o]",
-              "RelativeToolTip": "QuasarQueryIDE\\WinQuasarQueryUI.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T04:49:20.111Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FrmExplorer.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\FrmExplorer.cs",
-              "RelativeDocumentMoniker": "QuasarQueryIDE\\FrmExplorer.cs",
-              "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\FrmExplorer.cs [Dise\u00F1o]",
-              "RelativeToolTip": "QuasarQueryIDE\\FrmExplorer.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T07:03:19.689Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "FrmLogin.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\FrmLogin.cs",
+              "DocumentMoniker": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\FrmLogin.cs",
               "RelativeDocumentMoniker": "QuasarQueryIDE\\FrmLogin.cs",
-              "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\FrmLogin.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\FrmLogin.cs [Dise\u00F1o]",
               "RelativeToolTip": "QuasarQueryIDE\\FrmLogin.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T07:02:25.685Z",
@@ -246,75 +326,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApplicationFow.cs",
-              "DocumentMoniker": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\ApplicationFow.cs",
-              "RelativeDocumentMoniker": "QuasarQueryIDE\\ApplicationFow.cs",
-              "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\ApplicationFow.cs",
-              "RelativeToolTip": "QuasarQueryIDE\\ApplicationFow.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAawDsAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T03:35:04.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FrmExplorer.cs",
-              "DocumentMoniker": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\FrmExplorer.cs",
-              "RelativeDocumentMoniker": "QuasarQueryIDE\\FrmExplorer.cs",
-              "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\FrmExplorer.cs",
-              "RelativeToolTip": "QuasarQueryIDE\\FrmExplorer.cs",
-              "ViewState": "AQIAALgAAAAAAAAAAAAEwM4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T03:59:53.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "FrmGenerateProcedure.cs",
-              "DocumentMoniker": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\FrmGenerateProcedure.cs",
+              "DocumentMoniker": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\FrmGenerateProcedure.cs",
               "RelativeDocumentMoniker": "QuasarQueryIDE\\FrmGenerateProcedure.cs",
-              "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\FrmGenerateProcedure.cs",
+              "ToolTip": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\FrmGenerateProcedure.cs",
               "RelativeToolTip": "QuasarQueryIDE\\FrmGenerateProcedure.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T07:03:30.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T07:03:30.318Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "FrmParametersCollection.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\FrmParametersCollection.cs",
+              "DocumentMoniker": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\FrmParametersCollection.cs",
               "RelativeDocumentMoniker": "QuasarQueryIDE\\FrmParametersCollection.cs",
               "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\FrmParametersCollection.cs [Dise\u00F1o]",
-              "RelativeToolTip": "QuasarQueryIDE\\FrmParametersCollection.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\QuasarQuery\\QuasarQueryIDE\\FrmParametersCollection.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T07:03:52.799Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-04-21T07:03:52.799Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "FrmParametersCollection.cs",
-              "DocumentMoniker": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\FrmParametersCollection.cs",
+              "DocumentMoniker": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\FrmParametersCollection.cs",
               "RelativeDocumentMoniker": "QuasarQueryIDE\\FrmParametersCollection.cs",
-              "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\FrmParametersCollection.cs",
+              "ToolTip": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\FrmParametersCollection.cs",
               "RelativeToolTip": "QuasarQueryIDE\\FrmParametersCollection.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T07:03:55.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T07:03:55.895Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "FrmExplorer.Designer.cs",
-              "DocumentMoniker": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\FrmExplorer.Designer.cs",
+              "DocumentMoniker": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\FrmExplorer.Designer.cs",
               "RelativeDocumentMoniker": "QuasarQueryIDE\\FrmExplorer.Designer.cs",
-              "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\FrmExplorer.Designer.cs",
+              "ToolTip": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\FrmExplorer.Designer.cs",
               "RelativeToolTip": "QuasarQueryIDE\\FrmExplorer.Designer.cs",
               "ViewState": "AQIAAOIAAAAAAAAAAAAEwPkAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -323,47 +374,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "FrmReset.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\FrmReset.cs",
+              "DocumentMoniker": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\FrmReset.cs",
               "RelativeDocumentMoniker": "QuasarQueryIDE\\FrmReset.cs",
               "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\FrmReset.cs [Dise\u00F1o]",
-              "RelativeToolTip": "QuasarQueryIDE\\FrmReset.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\QuasarQuery\\QuasarQueryIDE\\FrmReset.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T07:04:02.732Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-04-21T07:04:02.732Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "FrmGenerateProcedure.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\FrmGenerateProcedure.cs",
+              "DocumentMoniker": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\FrmGenerateProcedure.cs",
               "RelativeDocumentMoniker": "QuasarQueryIDE\\FrmGenerateProcedure.cs",
               "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\FrmGenerateProcedure.cs [Dise\u00F1o]",
-              "RelativeToolTip": "QuasarQueryIDE\\FrmGenerateProcedure.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\QuasarQuery\\QuasarQueryIDE\\FrmGenerateProcedure.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T07:03:22.242Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-04-21T07:03:22.242Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "FrmDefault.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\FrmDefault.cs",
+              "DocumentMoniker": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\FrmDefault.cs",
               "RelativeDocumentMoniker": "QuasarQueryIDE\\FrmDefault.cs",
               "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\FrmDefault.cs [Dise\u00F1o]",
-              "RelativeToolTip": "QuasarQueryIDE\\FrmDefault.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\QuasarQuery\\QuasarQueryIDE\\FrmDefault.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T05:34:55.309Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-04-21T05:34:55.309Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "FrmCompareDataBase.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\FrmCompareDataBase.cs",
+              "DocumentMoniker": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\FrmCompareDataBase.cs",
               "RelativeDocumentMoniker": "QuasarQueryIDE\\FrmCompareDataBase.cs",
-              "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\FrmCompareDataBase.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\FrmCompareDataBase.cs [Dise\u00F1o]",
               "RelativeToolTip": "QuasarQueryIDE\\FrmCompareDataBase.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T04:49:14.905Z",
@@ -371,226 +419,174 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "FrmDescribeOrShema.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\FrmDescribeOrShema.cs",
+              "DocumentMoniker": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\FrmDescribeOrShema.cs",
               "RelativeDocumentMoniker": "QuasarQueryIDE\\FrmDescribeOrShema.cs",
               "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\FrmDescribeOrShema.cs [Dise\u00F1o]",
-              "RelativeToolTip": "QuasarQueryIDE\\FrmDescribeOrShema.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\QuasarQuery\\QuasarQueryIDE\\FrmDescribeOrShema.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T06:17:26.965Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "FrmDocument.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\FrmDocument.cs",
-              "RelativeDocumentMoniker": "QuasarQueryIDE\\FrmDocument.cs",
-              "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\FrmDocument.cs [Dise\u00F1o]",
-              "RelativeToolTip": "QuasarQueryIDE\\FrmDocument.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T06:17:29.718Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "FrmEntity.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\FrmEntity.cs",
-              "RelativeDocumentMoniker": "QuasarQueryIDE\\FrmEntity.cs",
-              "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\FrmEntity.cs [Dise\u00F1o]",
-              "RelativeToolTip": "QuasarQueryIDE\\FrmEntity.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T06:17:53.27Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-04-21T06:17:26.965Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "CodeDeveloperGetter.cs",
-              "DocumentMoniker": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\ConfigGetter\\CodeDeveloperGetter.cs",
-              "RelativeDocumentMoniker": "QuasarQueryIDE\\ConfigGetter\\CodeDeveloperGetter.cs",
-              "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\ConfigGetter\\CodeDeveloperGetter.cs",
-              "RelativeToolTip": "QuasarQueryIDE\\ConfigGetter\\CodeDeveloperGetter.cs",
-              "ViewState": "AQIAAFwAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Title": "FrmDocument.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\FrmDocument.cs",
+              "RelativeDocumentMoniker": "QuasarQueryIDE\\FrmDocument.cs",
+              "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\FrmDocument.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\QuasarQuery\\QuasarQueryIDE\\FrmDocument.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T07:02:26.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T06:17:29.718Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "SessionCollection.cs",
-              "DocumentMoniker": "C:\\PROYS\\QuasarQuery\\QuasarQuery.Entity\\Collection\\SessionCollection.cs",
-              "RelativeDocumentMoniker": "QuasarQuery.Entity\\Collection\\SessionCollection.cs",
-              "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQuery.Entity\\Collection\\SessionCollection.cs",
-              "RelativeToolTip": "QuasarQuery.Entity\\Collection\\SessionCollection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 18,
+              "Title": "FrmEntity.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\FrmEntity.cs",
+              "RelativeDocumentMoniker": "QuasarQueryIDE\\FrmEntity.cs",
+              "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\FrmEntity.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\QuasarQuery\\QuasarQueryIDE\\FrmEntity.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T07:08:31.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "FrmLogin.Designer.cs",
-              "DocumentMoniker": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\FrmLogin.Designer.cs",
-              "RelativeDocumentMoniker": "QuasarQueryIDE\\FrmLogin.Designer.cs",
-              "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\FrmLogin.Designer.cs",
-              "RelativeToolTip": "QuasarQueryIDE\\FrmLogin.Designer.cs",
-              "ViewState": "AQIAAAUBAAAAAAAAAAAEwB0BAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T04:18:48.333Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "FrmResult.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\FrmResult.cs",
-              "RelativeDocumentMoniker": "QuasarQueryIDE\\FrmResult.cs",
-              "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\FrmResult.cs [Dise\u00F1o]",
-              "RelativeToolTip": "QuasarQueryIDE\\FrmResult.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T06:40:32.224Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Parameter.cs",
-              "DocumentMoniker": "C:\\PROYS\\QuasarQuery\\QuasarQuery.Entity\\Entity\\Parameter.cs",
-              "RelativeDocumentMoniker": "QuasarQuery.Entity\\Entity\\Parameter.cs",
-              "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQuery.Entity\\Entity\\Parameter.cs",
-              "RelativeToolTip": "QuasarQuery.Entity\\Entity\\Parameter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T05:27:53.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ParameterCollection.cs",
-              "DocumentMoniker": "C:\\PROYS\\QuasarQuery\\QuasarQuery.Entity\\Collection\\ParameterCollection.cs",
-              "RelativeDocumentMoniker": "QuasarQuery.Entity\\Collection\\ParameterCollection.cs",
-              "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQuery.Entity\\Collection\\ParameterCollection.cs",
-              "RelativeToolTip": "QuasarQuery.Entity\\Collection\\ParameterCollection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T05:28:03.935Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "EConnectResult.cs",
-              "DocumentMoniker": "C:\\PROYS\\QuasarQuery\\QuasarQuery.Entity\\Enumeradores\\EConnectResult.cs",
-              "RelativeDocumentMoniker": "QuasarQuery.Entity\\Enumeradores\\EConnectResult.cs",
-              "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQuery.Entity\\Enumeradores\\EConnectResult.cs",
-              "RelativeToolTip": "QuasarQuery.Entity\\Enumeradores\\EConnectResult.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T05:26:02.164Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "SqlServerDataAccess.cs",
-              "DocumentMoniker": "C:\\PROYS\\QuasarQuery\\QuasarQuery.DataBase\\SqlServerDataAccess.cs",
-              "RelativeDocumentMoniker": "QuasarQuery.DataBase\\SqlServerDataAccess.cs",
-              "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQuery.DataBase\\SqlServerDataAccess.cs",
-              "RelativeToolTip": "QuasarQuery.DataBase\\SqlServerDataAccess.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwC0AAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T03:30:42.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "ETypeScript.cs",
-              "DocumentMoniker": "C:\\PROYS\\QuasarQuery\\QuasarQuery.Entity\\Enumeradores\\ETypeScript.cs",
-              "RelativeDocumentMoniker": "QuasarQuery.Entity\\Enumeradores\\ETypeScript.cs",
-              "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQuery.Entity\\Enumeradores\\ETypeScript.cs",
-              "RelativeToolTip": "QuasarQuery.Entity\\Enumeradores\\ETypeScript.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T05:26:12.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T06:17:53.27Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "OracleDataAccess.cs",
-              "DocumentMoniker": "C:\\PROYS\\QuasarQuery\\QuasarQuery.DataBase\\OracleDataAccess.cs",
-              "RelativeDocumentMoniker": "QuasarQuery.DataBase\\OracleDataAccess.cs",
-              "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQuery.DataBase\\OracleDataAccess.cs",
-              "RelativeToolTip": "QuasarQuery.DataBase\\OracleDataAccess.cs",
-              "ViewState": "AQIAACIBAAAAAAAAAAA8wBoAAAANAAAA",
+              "Title": "CodeDeveloperGetter.cs",
+              "DocumentMoniker": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\ConfigGetter\\CodeDeveloperGetter.cs",
+              "RelativeDocumentMoniker": "QuasarQueryIDE\\ConfigGetter\\CodeDeveloperGetter.cs",
+              "ToolTip": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\ConfigGetter\\CodeDeveloperGetter.cs",
+              "RelativeToolTip": "QuasarQueryIDE\\ConfigGetter\\CodeDeveloperGetter.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAIwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T03:30:42.054Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T07:02:26.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SessionCollection.cs",
+              "DocumentMoniker": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQuery.Entity\\Collection\\SessionCollection.cs",
+              "RelativeDocumentMoniker": "QuasarQuery.Entity\\Collection\\SessionCollection.cs",
+              "ToolTip": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQuery.Entity\\Collection\\SessionCollection.cs",
+              "RelativeToolTip": "QuasarQuery.Entity\\Collection\\SessionCollection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:08:31.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FrmResult.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\FrmResult.cs",
+              "RelativeDocumentMoniker": "QuasarQueryIDE\\FrmResult.cs",
+              "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\FrmResult.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\QuasarQuery\\QuasarQueryIDE\\FrmResult.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T06:40:32.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Parameter.cs",
+              "DocumentMoniker": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQuery.Entity\\Entity\\Parameter.cs",
+              "RelativeDocumentMoniker": "QuasarQuery.Entity\\Entity\\Parameter.cs",
+              "ToolTip": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQuery.Entity\\Entity\\Parameter.cs",
+              "RelativeToolTip": "QuasarQuery.Entity\\Entity\\Parameter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T05:27:53.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ParameterCollection.cs",
+              "DocumentMoniker": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQuery.Entity\\Collection\\ParameterCollection.cs",
+              "RelativeDocumentMoniker": "QuasarQuery.Entity\\Collection\\ParameterCollection.cs",
+              "ToolTip": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQuery.Entity\\Collection\\ParameterCollection.cs",
+              "RelativeToolTip": "QuasarQuery.Entity\\Collection\\ParameterCollection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T05:28:03.935Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
-              "Title": "IDataAccess.cs",
-              "DocumentMoniker": "C:\\PROYS\\QuasarQuery\\QuasarQuery.Entity\\Interface\\IDataAccess.cs",
-              "RelativeDocumentMoniker": "QuasarQuery.Entity\\Interface\\IDataAccess.cs",
-              "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQuery.Entity\\Interface\\IDataAccess.cs",
-              "RelativeToolTip": "QuasarQuery.Entity\\Interface\\IDataAccess.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "EConnectResult.cs",
+              "DocumentMoniker": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQuery.Entity\\Enumeradores\\EConnectResult.cs",
+              "RelativeDocumentMoniker": "QuasarQuery.Entity\\Enumeradores\\EConnectResult.cs",
+              "ToolTip": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQuery.Entity\\Enumeradores\\EConnectResult.cs",
+              "RelativeToolTip": "QuasarQuery.Entity\\Enumeradores\\EConnectResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T04:45:38.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T05:26:02.164Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 31,
-              "Title": "LGDataAccess.cs",
-              "DocumentMoniker": "C:\\PROYS\\QuasarQuery\\QuasarQuery.Logic\\LGDataAccess.cs",
-              "RelativeDocumentMoniker": "QuasarQuery.Logic\\LGDataAccess.cs",
-              "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQuery.Logic\\LGDataAccess.cs",
-              "RelativeToolTip": "QuasarQuery.Logic\\LGDataAccess.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAvAAAA",
+              "Title": "ETypeScript.cs",
+              "DocumentMoniker": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQuery.Entity\\Enumeradores\\ETypeScript.cs",
+              "RelativeDocumentMoniker": "QuasarQuery.Entity\\Enumeradores\\ETypeScript.cs",
+              "ToolTip": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQuery.Entity\\Enumeradores\\ETypeScript.cs",
+              "RelativeToolTip": "QuasarQuery.Entity\\Enumeradores\\ETypeScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T05:24:25.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T05:26:12.029Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 25,
+              "Title": "OracleDataAccess.cs",
+              "DocumentMoniker": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQuery.DataBase\\OracleDataAccess.cs",
+              "RelativeDocumentMoniker": "QuasarQuery.DataBase\\OracleDataAccess.cs",
+              "ToolTip": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQuery.DataBase\\OracleDataAccess.cs",
+              "RelativeToolTip": "QuasarQuery.DataBase\\OracleDataAccess.cs",
+              "ViewState": "AQIAACIBAAAAAAAAAAA8wBoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T03:30:42.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IDataAccess.cs",
+              "DocumentMoniker": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQuery.Entity\\Interface\\IDataAccess.cs",
+              "RelativeDocumentMoniker": "QuasarQuery.Entity\\Interface\\IDataAccess.cs",
+              "ToolTip": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQuery.Entity\\Interface\\IDataAccess.cs",
+              "RelativeToolTip": "QuasarQuery.Entity\\Interface\\IDataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T04:45:38.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
               "Title": "QuasarQuery.IDE",
-              "DocumentMoniker": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\QuasarQuery.IDE.csproj",
+              "DocumentMoniker": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\QuasarQuery.IDE.csproj",
               "RelativeDocumentMoniker": "QuasarQueryIDE\\QuasarQuery.IDE.csproj",
-              "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\QuasarQuery.IDE.csproj",
+              "ToolTip": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\QuasarQuery.IDE.csproj",
               "RelativeToolTip": "QuasarQueryIDE\\QuasarQuery.IDE.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-04-20T04:44:05.162Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "EntityMapper.cs",
-              "DocumentMoniker": "C:\\PROYS\\QuasarQuery\\QuasarQuery.Entity\\Entity\\EntityMapper.cs",
+              "DocumentMoniker": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQuery.Entity\\Entity\\EntityMapper.cs",
               "RelativeDocumentMoniker": "QuasarQuery.Entity\\Entity\\EntityMapper.cs",
-              "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQuery.Entity\\Entity\\EntityMapper.cs",
+              "ToolTip": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQuery.Entity\\Entity\\EntityMapper.cs",
               "RelativeToolTip": "QuasarQuery.Entity\\Entity\\EntityMapper.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T04:45:42.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-20T04:45:42.476Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "TNSNamesReader.cs",
-              "DocumentMoniker": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\TNSNamesReader.cs",
+              "DocumentMoniker": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\TNSNamesReader.cs",
               "RelativeDocumentMoniker": "QuasarQueryIDE\\TNSNamesReader.cs",
-              "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\TNSNamesReader.cs",
+              "ToolTip": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\TNSNamesReader.cs",
               "RelativeToolTip": "QuasarQueryIDE\\TNSNamesReader.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -598,11 +594,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "app.config",
-              "DocumentMoniker": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\app.config",
+              "DocumentMoniker": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\app.config",
               "RelativeDocumentMoniker": "QuasarQueryIDE\\app.config",
-              "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\app.config",
+              "ToolTip": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\app.config",
               "RelativeToolTip": "QuasarQueryIDE\\app.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -611,24 +607,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "WinQuasarQueryUI.Designer.cs",
-              "DocumentMoniker": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\WinQuasarQueryUI.Designer.cs",
+              "DocumentMoniker": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\WinQuasarQueryUI.Designer.cs",
               "RelativeDocumentMoniker": "QuasarQueryIDE\\WinQuasarQueryUI.Designer.cs",
-              "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\WinQuasarQueryUI.Designer.cs",
+              "ToolTip": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\WinQuasarQueryUI.Designer.cs",
               "RelativeToolTip": "QuasarQueryIDE\\WinQuasarQueryUI.Designer.cs",
               "ViewState": "AQIAABkCAAAAAAAAAAAmwCwCAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T04:06:59.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-20T04:06:59.05Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\Program.cs",
+              "DocumentMoniker": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\Program.cs",
               "RelativeDocumentMoniker": "QuasarQueryIDE\\Program.cs",
-              "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\Program.cs",
+              "ToolTip": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\Program.cs",
               "RelativeToolTip": "QuasarQueryIDE\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -636,11 +631,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "Base.cs",
-              "DocumentMoniker": "C:\\PROYS\\QuasarQuery\\QuasarQuery.Core\\Base.cs",
+              "DocumentMoniker": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQuery.Core\\Base.cs",
               "RelativeDocumentMoniker": "QuasarQuery.Core\\Base.cs",
-              "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQuery.Core\\Base.cs",
+              "ToolTip": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQuery.Core\\Base.cs",
               "RelativeToolTip": "QuasarQuery.Core\\Base.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -648,16 +643,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "FrmReset.cs",
-              "DocumentMoniker": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\FrmReset.cs",
+              "DocumentMoniker": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\FrmReset.cs",
               "RelativeDocumentMoniker": "QuasarQueryIDE\\FrmReset.cs",
-              "ToolTip": "C:\\PROYS\\QuasarQuery\\QuasarQueryIDE\\FrmReset.cs",
+              "ToolTip": "C:\\PROYS\\QuasarQueryTool\\QuasarQuery\\QuasarQueryIDE\\FrmReset.cs",
               "RelativeToolTip": "QuasarQueryIDE\\FrmReset.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T01:02:34.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-20T01:02:34.015Z"
             }
           ]
         }

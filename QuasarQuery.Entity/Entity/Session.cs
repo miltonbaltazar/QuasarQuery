@@ -38,23 +38,6 @@ namespace QuasarQuery.Entity
         public bool RememberPassword { get; set; }
 
         public string ConnectionName { get; set; }
-
-        public bool isValid(out string message)
-        {
-            message = string.Empty;
-
-            if (string.IsNullOrEmpty(Name)) message = "Ingrese el nombre de la conexión";
-            if (Provider == EnumProviders.None) message = "Proveedor de datos inválido";
-            if (string.IsNullOrEmpty(DataSource)) message = "Origen de datos inválido";
-
-            bool retval;
-            if (!string.IsNullOrEmpty(message))
-                retval = false;
-            else
-                retval = true;
-
-            return retval;
-        }
-
+ 
     }
 }

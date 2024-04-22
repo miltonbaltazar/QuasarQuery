@@ -50,7 +50,10 @@ namespace QuasarQuery.Common
         {
             // Lee el contenido del archivo y lo deserializa desde JSON
             string jsonString = File.ReadAllText(filePath);
-            return JsonSerializer.Deserialize<T>(jsonString);
+            if (!string.IsNullOrEmpty(jsonString))
+                return JsonSerializer.Deserialize<T>(jsonString);
+            else
+                return default(T);
         }
 
         // Deserializa un objeto desde XML en un archivo

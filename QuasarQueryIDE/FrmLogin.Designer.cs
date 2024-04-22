@@ -136,7 +136,6 @@
             this.cboServer.Name = "cboServer";
             this.cboServer.Size = new System.Drawing.Size(203, 21);
             this.cboServer.TabIndex = 3;
-            this.cboServer.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtBd_KeyDown);
             // 
             // checkBox1
             // 

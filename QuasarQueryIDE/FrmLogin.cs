@@ -4,6 +4,7 @@ using QuasarQuery.Logic;
 using QuasarQuery.Common;
 using QuasarQuery.Core;
 using System.Windows.Forms;
+using QuasarQuery.Entity.Collection;
 
 
 namespace QuasarQuery.IDE
@@ -18,26 +19,16 @@ namespace QuasarQuery.IDE
 
         private void btnConnect_Click(object sender, EventArgs e)
         {
-            
             string strmsg = string.Empty;
-            session = setSession();
-            ConnectDataBase(session);
-            if (!session.isValid(out strmsg))
+            Session ses = setSession(out strmsg);
+            if (!string.IsNullOrEmpty(strmsg))
             {
                 MessageBox.Show(strmsg, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
+            ConnectDataBase(ses);
         }
-
-        private void txtBd_KeyDown(object sender, KeyEventArgs e)
-        {
-            if (e.KeyCode == Keys.Enter)
-            {
-                Session session = setSession();
-                ConnectDataBase(session);
-            }
-        }
-
+ 
         private void ConnectDataBase(Session session)
         {
             LGDataAccess lg = new LGDataAccess();
@@ -67,15 +58,17 @@ namespace QuasarQuery.IDE
             cboProvider.DataSource = databases;
             cboProvider.ValueMember = "EnumName";
             cboProvider.DisplayMember = "Name";
+            SessionCollection sescll = ApplicationFow.GetSessions();
+            if (sescll == null) return;
 
-            TreeNode ConnectionsNode = null;
+             TreeNode ConnectionsNode = null;
             foreach (DataBaseObject database in databases)
             {
                 if (database.EnumKey != EnumProviders.None)
                 {
                     ConnectionsNode = new TreeNode(database.Name, 1, 1);
                     ConnectionsNode.ExpandAll();
-                    foreach (Session sess in ApplicationFow.GetSessions().FindAll(c=> c.Provider == database.EnumKey))
+                    foreach (Session sess in sescll.FindAll(c=> c.Provider == database.EnumKey))
                     {
                         string name = string.Empty;
                         if (string.IsNullOrEmpty(sess.Name))
@@ -92,8 +85,16 @@ namespace QuasarQuery.IDE
 
         }
 
-        public Session setSession()
+        public Session setSession(out string msgValid)
         {
+            msgValid = string.Empty;
+            if (cboProvider.SelectedValue == null) msgValid += "Seleccione el Proveedor de base de datos. ";
+            if (string.IsNullOrEmpty(cboServer.Text)) msgValid += "Servidor inválido. ";
+            if (string.IsNullOrEmpty(txtDataBase.Text)) msgValid += "Base de datos inválido. ";
+            if (string.IsNullOrEmpty(txtDataBase.Text)) msgValid += "Origen de datos inválid. ";
+            if (!string.IsNullOrEmpty(msgValid))  
+                return null;
+
             session  = new Session() 
             {
                 Id = (string.IsNullOrEmpty(txtIdSession.Text)) ? Guid.NewGuid().ToString() : txtIdSession.Text,
@@ -105,15 +106,18 @@ namespace QuasarQuery.IDE
                 Name = string.Concat(cboServer.Text, "@", txtUser.Text),
                 Provider = (cboProvider.SelectedValue.ToString() == "Oracle") ? EnumProviders.Oracle : EnumProviders.SQLServer 
             };
+            msgValid = string.Empty;
             propertyGrid1.SelectedObject = session;
             return session;
         }
 
         private void btnTest_Click(object sender, EventArgs e)
         {
+
+
             string strmsg = string.Empty;
-            session = setSession();
-            if (!session.isValid(out strmsg))
+            session = setSession(out strmsg);
+            if (!string.IsNullOrEmpty(strmsg))
             {
                 MessageBox.Show(strmsg, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
@@ -167,7 +171,14 @@ namespace QuasarQuery.IDE
 
         private void btnGrabar_Click(object sender, EventArgs e)
         {
-            ApplicationFow.AddOrMergeConnect(setSession());
+            string strmsg = string.Empty;
+            Session ses = setSession(out strmsg);
+            if (!string.IsNullOrEmpty(strmsg))
+            {
+                MessageBox.Show(strmsg, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+            ApplicationFow.AddOrMergeConnect(ses);
             this.Close();
         }
         private void btnDelete_Click(object sender, EventArgs e)
@@ -187,6 +198,7 @@ namespace QuasarQuery.IDE
 
         private void tsbDelete_Click(object sender, EventArgs e)
         {
+            if (trvConnections.SelectedNode == null) return;
             if (trvConnections.SelectedNode.Level == 1)
             {
                 string id = trvConnections.SelectedNode.Name;
